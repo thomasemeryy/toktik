@@ -1,2 +1,2 @@
-# toktik
-A python library to parse statistics from a .json export.
+# TokTik
+A simple program to calculate statistics from a TikTok data export.
