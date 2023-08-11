@@ -332,4 +332,4 @@ def generate_stats_file(data_file):
 
         print("❌ Failure generating TikTok stats.")
 
-        return "unknown-stats.txt"
+        return "error-stats.txt"
